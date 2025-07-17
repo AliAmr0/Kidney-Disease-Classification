@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Kidney Disease Classification</h1>
 
 <p align="center">
-  <img src="summary_image.png" alt="Kidney Disease Project Summary" width="600"/>
+  <img src="Images/Kidney Disease Classification.png" alt="Kidney Disease Project Summary" width="600"/>
 </p>
 
 ## 📌 Overview
@@ -64,5 +64,5 @@ The model demonstrated high classification accuracy across four kidney disease c
 The image below visualizes model accuracy, confusion matrix, and sample predictions from the CT scan dataset.
 
 <p align="center">
-  <img src="summary_image.png" width="600"/>
+  <img src="Images/Kidney Disease Classification.pn" width="600"/>
 </p>
