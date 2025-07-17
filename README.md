@@ -63,7 +63,7 @@ The model demonstrated high classification accuracy across four kidney disease c
 
 The image below visualizes sample Images, confusion matrix, and performance over epochs from the CT scan dataset.
 
-<p sample Images align="center">
+<p align="center">
   <img src="Images/Sample Images.png" width="600"/>
 </p>
 <p align="center">
