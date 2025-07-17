@@ -64,5 +64,11 @@ The model demonstrated high classification accuracy across four kidney disease c
 The image below visualizes model accuracy, confusion matrix, and sample predictions from the CT scan dataset.
 
 <p align="center">
-  <img src="Images/Kidney Disease Classification.pn" width="600"/>
+  <img src="Images/Kidney Disease Classification.png" width="600"/>
+</p>
+<p align="center">
+  <img src="Images/Kidney Disease Classification.png" width="600"/>
+</p>
+<p align="center">
+  <img src="Images/Kidney Disease Classification.png" width="600"/>
 </p>
